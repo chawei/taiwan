@@ -9,11 +9,18 @@
  * [鼎王](http://www.tripodking.com.tw/html/store/index.aspx?kind=4) 
 
 ## Night Market
+ * [公館夜市 Gung Gun Night Market](http://www.i-city.com.tw/markets/view/kk)
+ * [石牌夜市 Shipai Night Market]
 
-## Streets to Walk
+## Places to Walk
  * [剝皮寮 Bopiliao Historic Block](http://www.culture.tw/index.php?option=com_sobi2&sobi2Task=sobi2Details&sobi2Id=883&Itemid=175)
 
 ## Nightlife 
+
+### KTV
+ * [錢櫃 Cashbox KTV](http://www.cashboxparty.com/)
+
+### Lounges and Bars
  * [In House](http://www.inhouse19.com/inhouse/home.jsp)
  * [Barcode](http://www.taiwannights.com/en/bar-lounge/barcode-taipei-146)
  * [Room 18](http://www.room18.com.tw/)
